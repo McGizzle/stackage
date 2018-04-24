@@ -7,6 +7,9 @@ cabal-format-version: "2.0"
 
 # Constraints for brand new builds
 packages:
+    "Sean McGroarty <mcgroas@tcd.ie> @McGizzle"
+        - stack-network
+    
     "Paul Johnson <paul@cogito.org.uk> @PaulJohnson":
         - geodetics
 
